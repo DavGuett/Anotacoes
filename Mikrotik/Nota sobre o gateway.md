@@ -1,0 +1,1 @@
+Após configurar o servidor DHCP, o gateway que aparece ao digitar ipconfig no cmd é o IP do roteador como de praxe.
